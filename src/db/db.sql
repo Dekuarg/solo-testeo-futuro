@@ -1,0 +1,4 @@
+CREATE TABLE users(
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name Varchar(255) NOT NULL
+)
